@@ -39,7 +39,7 @@ Afin de lancer le projet, rendez-vous à la racine et exécutez la classe (dans 
 
 *Ecran d'accueil après que l'utlisateur ai renseigné son nom d'utlisateur*
 
-![Ecran mes tweets](doc/images/ecran_accueil_mes_tweets.png)
+![Ecran mes tweets](doc/images/ecran_accueil_mes_tweets2.png)
 
 *Ecran contenant les tweets de l'utilisateur*
 
