@@ -63,12 +63,12 @@ Afin de lancer le projet, rendez-vous à la racine et exécutez la classe (dans 
 
 Le projet se base sur l'architecture :
   * Un tweet possède son auteur
-  * Un tweet est composé de 140 caractères qui contienne eventuellement des hashtags et/ou des arobases. Ce qui permet de pas lier un tableau d'hashtags et de lier plusieurs personnes à ce tweet.
+  * Un tweet est composé de 140 caractères qui contiennent eventuellement des hashtags et/ou des arobases. Ce qui permet de pas lier un tableau d'hashtags et de lier plusieurs personnes à ce tweet.
 
-Le projet est aussi basé sur l'architecture MVC (modèle/vue/controlleur) et implémentant les DAO (Objet d'Accès aux Données) afin de faire le lien entre la base et l'application.
+Le projet est aussi basé sur l'architecture MVC (modèle/vue/contrôleur) et implémentant les DAO (Objet d'Accès aux Données) afin de faire le lien entre la base et l'application.
 
-De plus, la gestion des comptes et le sytème d'abonnements n'ont pas été implémentés car le sujet ne l'a pas demandé.
-Les dépendances Maven sont celles qui ont été communiqués lors du précedent TP.
+De plus, la gestion des comptes et le sytème d'abonnements n'ont pas été implémentés car cela n'a pas été précisé dans le cahier des charges.
+Les dépendances Maven sont celles qui ont été communiquées lors du précedent TP.
 
 ### Remarques
 
