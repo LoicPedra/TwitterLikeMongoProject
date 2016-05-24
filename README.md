@@ -40,7 +40,7 @@ Afin de lancer le projet, rendez-vous à la racine et exécutez la classe (dans 
 *Ecran d'accueil après que l'utlisateur ai renseigné son nom d'utlisateur*
 
 ![Ecran mes tweets](doc/images/ecran_accueil_mes_tweets.png)
-***Rajouter des tweets dans l'image***
+
 *Ecran contenant les tweets de l'utilisateur*
 
 ![Ecran d'accueil](doc/images/ecran_accueil_tweeter.png)
@@ -69,3 +69,11 @@ Le projet est aussi basé sur l'architecture MVC (modèle/vue/controlleur) et im
 
 De plus, la gestion des comptes et le sytème d'abonnements n'ont pas été implémentés car le sujet ne l'a pas demandé.
 Les dépendances Maven sont celles qui ont été communiqués lors du précedent TP.
+
+### Remarques
+
+Le logiciel a été testé sur les plateformes Windows et Linux avec succès. L'IDE utilisé a été Eclipse.
+
+### Contact
+
+En cas de problème ou de demande d'informations complémentaires, veuillez-nous contacter via nos mails respectifs.
