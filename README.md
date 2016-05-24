@@ -1,6 +1,6 @@
 # Projet MongoDb (*TwitterLike*)
 
-Ce répertoire un projet Maven répondant au sujet défini ci-dessous.
+Ce répertoire est un projet Maven répondant au sujet défini ci-dessous.
 
 ## Sujet
 Le projet consiste à créer un twitter like.
@@ -40,7 +40,7 @@ Afin de lancer le projet, rendez-vous à la racine et exécutez la classe (dans 
 *Ecran d'accueil après que l'utlisateur ai renseigné son nom d'utlisateur*
 
 ![Ecran mes tweets](doc/images/ecran_accueil_mes_tweets.png)
-
+***Rajouter des tweets dans l'image***
 *Ecran contenant les tweets de l'utilisateur*
 
 ![Ecran d'accueil](doc/images/ecran_accueil_tweeter.png)
@@ -58,3 +58,14 @@ Afin de lancer le projet, rendez-vous à la racine et exécutez la classe (dans 
 *Ecran de recherche par le biais d'un arobase**
 
 **\* : Il faut appuyer sur la touche Entrée afin de valider l'action**
+
+### Choix techniques
+
+Le projet se base sur l'architecture :
+  * Un tweet possède son auteur
+  * Un tweet est composé de 140 caractères qui contienne eventuellement des hashtags et/ou des arobases. Ce qui permet de pas lier un tableau d'hashtags et de lier plusieurs personnes à ce tweet.
+
+Le projet est aussi basé sur l'architecture MVC (modèle/vue/controlleur) et implémentant les DAO (Objet d'Accès aux Données) afin de faire le lien entre la base et l'application.
+
+De plus, la gestion des comptes et le sytème d'abonnements n'ont pas été implémentés car le sujet ne l'a pas demandé.
+Les dépendances Maven sont celles qui ont été communiqués lors du précedent TP.
