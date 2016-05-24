@@ -76,4 +76,6 @@ Le logiciel a été testé sur les plateformes Windows et Linux avec succès. L'
 
 ### Contact
 
-En cas de problème ou de demande d'informations complémentaires, veuillez-nous contacter via nos mails respectifs.
+En cas de problème ou de demande d'informations complémentaires, veuillez-nous contacter via nos mails :
+* `mael.louis@orange.fr`
+* `loic.pedra@gmail.com`
